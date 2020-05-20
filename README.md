@@ -12,3 +12,5 @@ Firebase can be used to access authentication.
  - Firebase 
 
 ##App Previews
+
+<img src="shop.jpg" height="356" >
